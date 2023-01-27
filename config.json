@@ -6,8 +6,8 @@
     "0xa6ff33e3250cc765052ac9d7f7dfebda183c4b9b"
   ],
   "systemTreasury": {
-    "0x00a601f45688dba8a070722073b015277cf36725": 9000,
-    "0x100dd6c27454cb1DAdd1391214A344C6208A8C80": 1000
+    "0xca3928963A6CEB9b5d05B004aE7593929cad3FFe": 9000,
+    "0x865f43E96640DEEad0B206F30f148097B7890c4B": 1000
   },
   "consensusParams": {
     "activeValidatorsLength": 25,
@@ -26,7 +26,7 @@
   },
   "votingPeriod": 60,
   "faucet": {
-    "0x00a601f45688dba8a070722073b015277cf36725": "0x21e19e0c9bab2400000",
+    "0xca3928963A6CEB9b5d05B004aE7593929cad3FFe": "0x21e19e0c9bab2400000",
     "0xb891fe7b38f857f53a7b5529204c58d5c487280b": "0x52b7d2dcc80cd2e4000000"
   }
 }

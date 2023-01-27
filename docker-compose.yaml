@@ -134,8 +134,8 @@ services:
       - "--rpcapi=ws://host.docker.internal:8546"
       - "--noauth=true"
       - "--faucet.name=ERON"
-      - "--faucet.amount=10"
-      - "--faucet.tiers=5"
+      - "--faucet.amount=0.00001"
+      - "--faucet.tiers=1"
     ports:
       - "3000:8080"
     volumes:
